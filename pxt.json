@@ -1,1 +1,13 @@
+{
+    "name": "makecode-rpg-extension",
+    "version": "0.0.1",
+    "description": "Custom RPG Extension for MakeCode Arcade with XP, inventory, enemies, and quests.",
+    "license": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts"
+    ]
+}
 
