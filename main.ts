@@ -4,7 +4,7 @@
 
 //% weight=100 color=#0fbc11 icon="⚔"
 namespace RPG {
-    export class Player {
+    export class layer {
         sprite: Sprite;
         health: number;
         xp: number;
@@ -102,5 +102,5 @@ namespace RPG {
 }
 
 // Create the player
-RPG.player = new RPG.Player();
+RPG.player = new RPG.player();
 

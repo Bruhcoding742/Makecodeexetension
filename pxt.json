@@ -8,6 +8,13 @@
     },
     "files": [
         "main.ts"
-    ]
+    ],
+    "targetVersions": {
+        "target": "2.0.48",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
 }
-
