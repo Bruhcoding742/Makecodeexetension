@@ -7,14 +7,15 @@
         "device": "*"
     },
     "files": [
-        "main.ts"
+        "main.ts",
+        "main.py"
     ],
     "targetVersions": {
-        "target": "2.0.48",
+        "target": "2.0.53",
         "targetId": "arcade"
     },
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "pyprj"
 }
