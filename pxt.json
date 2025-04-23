@@ -1,7 +1,7 @@
 {
-    "name": "makecode-rpg-extension",
+    "name": "thehuxcollab",
     "version": "0.0.1",
-    "description": "Custom RPG Extension for MakeCode Arcade with XP, inventory, enemies, and quests.",
+    "description": "A collab of huxley and ethan",
     "license": "",
     "dependencies": {
         "device": "*"
